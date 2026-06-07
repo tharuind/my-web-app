@@ -1,0 +1,30 @@
+body {
+  background-color: lightyellow;
+  font-family: sans-serif; 
+}
+
+h1 {
+  color: blue;
+}
+
+.food-heading {
+  color: green;
+}
+
+button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkred; /* Darkens the button when your mouse hovers over it */
+}
+
+#commentOutput {
+  font-weight: bold;
+  color: darkred;
+  margin-top: 15px;
+}
